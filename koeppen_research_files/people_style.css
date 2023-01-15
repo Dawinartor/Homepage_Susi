@@ -139,7 +139,7 @@ div.header {
 
 .cricle-container {
     height: 400px;
-    background-color: aqua;
+    background-color: rgb(34, 244, 255);
 }
 
 .circle { 
@@ -151,26 +151,45 @@ div.header {
     border-radius: 100%;
     box-sizing: border-box;
     text-align: center;
-    line-height: 100px;
+    line-height: 150px;
 }
 
 #crafting {
-    background-color: rgba(0, 0, 255, 0.8);
+    background-color: rgba(0, 0, 255, 0.7);
     z-index: 3;
     top: 150px;
-    left: 325px
+    left: 300px
 }
 
 #modelling {
-    background-color: rgba(255, 0, 0, 0.8);
+    background-color: rgba(255, 0, 0, 0.7);
     z-index: 2;
-    top: -175px;
-    left: 400px
+    top: -150px;
+    left: 375px
 }
 
 #programming {
-    background-color:  rgba(0, 255, 0, 0.8);
+    background-color:  rgba(0, 255, 0, 0.7);
     z-index: 3;
     top: -250px;
-    left: 475px
+    left: 450px
+}
+
+#partner {
+    margin-left: 25;
+}
+
+#crafting-div {
+    height: 600px;
+    background-color: rgb(1, 50, 242);
+}
+
+#modelling-div {
+    height: 600px;
+    background-color: rgb(230, 53, 8);
+}
+
+#programming-div {
+    height: 600px;
+    background-color: rgb(2, 220, 17);
 }
