@@ -170,6 +170,22 @@ div.header {
     position: relative;
 }
 
+.text-package {
+    margin: 16px;
+}
+
+.text-package > p {
+    margin: 0;
+}
+
+.project-card {
+    background-color: darkorange;
+}
+
+.image-container > img {
+    color: aliceblue;
+}
+
 #green-text {
     background-color: rgba(14, 172, 22, 0.1);
     top: 75px;
@@ -189,12 +205,13 @@ div.header {
 }
 
 #partner {
-    margin-left: 25;
+    background-color: crimson;
+    margin-top: 0%;
 }
 
-#crafting-div {
-    height: 600px;
-    background-color: rgb(1, 50, 242);
+#biomolecular-div {
+    height: 850px;
+    background-color: rgb(3, 177, 82);
 }
 
 #modelling-div {
