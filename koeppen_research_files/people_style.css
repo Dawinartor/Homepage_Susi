@@ -131,6 +131,11 @@ td.addr_p {padding-top:   0.0em ;
 
 td.fett {font-weight: bold ; }
 
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 div.header {
     background: rgb(220,220,220) ;
     padding:    0em ;
@@ -154,25 +159,33 @@ div.header {
     line-height: 150px;
 }
 
-#crafting {
-    background-color: rgba(0, 0, 255, 0.7);
-    z-index: 3;
-    top: 150px;
-    left: 300px
+.square {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    line-height: 16px;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 150px;
+    position: relative;
 }
 
-#modelling {
-    background-color: rgba(255, 0, 0, 0.7);
-    z-index: 2;
-    top: -150px;
-    left: 375px
+#green-text {
+    background-color: rgba(14, 172, 22, 0.1);
+    top: 75px;
+    left: 50px
 }
 
-#programming {
-    background-color:  rgba(0, 255, 0, 0.7);
-    z-index: 3;
-    top: -250px;
-    left: 450px
+#red-text {
+    background-color: rgba(255, 0, 0, 0.1);
+    top: -175px;
+    left: 350px
+}
+
+#orange-text {
+    background-color:  rgba(68, 114, 196, 1);
+    top: -425px;
+    left: 650px
 }
 
 #partner {
