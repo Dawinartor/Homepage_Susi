@@ -194,6 +194,10 @@ div.header {
     background-color: rgb(242, 105, 6);
 }
 
+.project-card-interface{
+    background-color: rgb(0, 174, 255);
+}
+
 .image-container > img {
     color: aliceblue;
 }
@@ -231,7 +235,7 @@ div.header {
     background-color: rgb(230, 53, 8);
 }
 
-#programming-div {
-    height: 600px;
-    background-color: rgb(2, 220, 17);
+#interface-div {
+    height: 800px;
+    background-color: rgb(68, 114, 196);
 }
