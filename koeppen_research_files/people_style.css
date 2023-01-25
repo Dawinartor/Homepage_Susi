@@ -187,11 +187,11 @@ div.header {
 }
 
 .project-card-modelling {
-    background-color: rgb(242, 105, 6);
+    background-color: rgb(255, 255, 255);
 }
 
 .project-card-modelling > div{
-    background-color: rgb(242, 105, 6);
+    background-color: rgb(255, 255, 255);
 }
 
 .project-card-interface{
@@ -206,7 +206,9 @@ div.header {
     position: relative;
 }
 
-
+.not-so-strong {
+    
+}
 
 #biomolecular-img-1 {
     position: absolute;
@@ -264,6 +266,16 @@ div.header {
     bottom: -815px;
 }
 
+#biomolecular-img-8 {
+    position: absolute;
+    max-height: 250px;
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+    left: 50%;
+    bottom: -1150px;
+}
+
 #green-text {
     background-color: rgba(14, 172, 22, 0.1);
     top: 75px;
@@ -294,7 +306,7 @@ div.header {
 
 #modelling-div {
     height: 850px;
-    background-color: rgb(230, 53, 8);
+    background-color: rgb(255, 255, 255);
 }
 
 #interface-div {
