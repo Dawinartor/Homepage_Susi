@@ -248,6 +248,22 @@ div.header {
     bottom: -555px;
 }
 
+#biomolecular-img-6 {
+    position: absolute;
+    max-height: 175px;
+    max-width: 175px;
+    left: 68%;
+    bottom: -815px;
+}
+
+#biomolecular-img-7 {
+    position: absolute;
+    max-height: 175px;
+    max-width: 175px;
+    left: 88%;
+    bottom: -815px;
+}
+
 #green-text {
     background-color: rgba(14, 172, 22, 0.1);
     top: 75px;
