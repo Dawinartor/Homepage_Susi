@@ -198,8 +198,38 @@ div.header {
     background-color: rgb(0, 174, 255);
 }
 
-.image-container > img {
-    color: aliceblue;
+.image-container {
+    color: rgb(22, 104, 175);
+}
+
+.image-container > img{
+    position: relative;
+}
+
+
+
+#biomolecular-img-1 {
+    position: absolute;
+    max-height: 200px;
+    max-width: 200px;
+    left: 76%;
+    bottom: -300px;
+}
+
+#biomolecular-img-2 {
+    position: absolute;
+    max-height: 100px;
+    max-width: 100px;
+    left: 96%;
+    bottom: -270px;
+}
+
+#biomolecular-img-3 {
+    position: absolute;
+    max-height: 200px;
+    max-width: 200px;
+    left: 55%;
+    bottom: -300px;
 }
 
 #green-text {
