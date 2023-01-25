@@ -144,7 +144,7 @@ div.header {
 
 .cricle-container {
     height: 400px;
-    background-color: rgb(34, 244, 255);
+    background-color: rgb(255, 255, 255);
 }
 
 .circle { 
@@ -294,7 +294,6 @@ div.header {
 }
 
 #green-text {
-    background-color: rgba(14, 172, 22, 0.1);
     top: 75px;
     left: 50px
 }
