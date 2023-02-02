@@ -131,6 +131,14 @@ td.addr_p {padding-top:   0.0em ;
 
 td.fett {font-weight: bold ; }
 
+#three-column-system{
+    column-count: 3;
+}
+
+#two-column-system{
+    column-count: 2;
+}
+
 .blocksatz {
     text-align: justify;
 }
