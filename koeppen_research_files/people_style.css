@@ -207,11 +207,15 @@ div.header {
 }
 
 .centered-project-biomolecular-titel > p {
-    color: rgb(82, 113, 35);
+    text-align: center;
+}
+
+.centered-project-interface-titel > p {
+    text-align: center;
 }
 
 .spacer-div {
-    height: 25px;
+    height: 75px;
     width: 100%;
 }
 
