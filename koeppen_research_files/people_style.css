@@ -232,7 +232,7 @@ div.header {
     max-height: 250px;
     max-width: 250px;
     left: 821px;
-    bottom: -740px;
+    bottom: -650px;
 }
 
 #biomolecular-img-2 {
@@ -240,7 +240,7 @@ div.header {
     max-height: 250px;
     max-width: 300px;
     left: 771px;
-    bottom: -1110px;
+    bottom: -1020px;
 }
 
 #biomolecular-img-3 {
@@ -248,7 +248,7 @@ div.header {
     max-height: 200px;
     max-width: 300px;
     left: 806px;
-    bottom: -1475px;
+    bottom: -1385px;
 }
 
 #biomolecular-img-4 {
@@ -256,7 +256,15 @@ div.header {
     max-height: 390px;
     max-width: 390px;
     left: 681px;
-    bottom: -2050px;
+    bottom: -1950px;
+}
+
+#biomolecular-img-5 {
+    position: absolute;
+    max-height: 250px;
+    max-width: 400px;
+    left: 725px;
+    bottom: -2650px;
 }
 
 #green-text {
