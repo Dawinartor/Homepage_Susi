@@ -228,7 +228,7 @@ div.header {
 }
 
 #biomolecular-img-1 {
-    position: absolute;
+    position: relative;
     max-height: 250px;
     max-width: 250px;
     left: 821px;
@@ -236,7 +236,7 @@ div.header {
 }
 
 #biomolecular-img-2 {
-    position: absolute;
+    position: relative;
     max-height: 250px;
     max-width: 300px;
     left: 771px;
@@ -244,7 +244,7 @@ div.header {
 }
 
 #biomolecular-img-3 {
-    position: absolute;
+    position: relative;
     max-height: 200px;
     max-width: 300px;
     left: 806px;
@@ -252,7 +252,7 @@ div.header {
 }
 
 #biomolecular-img-4 {
-    position: absolute;
+    position: relative;
     max-height: 390px;
     max-width: 390px;
     left: 681px;
@@ -260,7 +260,7 @@ div.header {
 }
 
 #biomolecular-img-5 {
-    position: absolute;
+    position: relative;
     max-height: 250px;
     max-width: 400px;
     left: 725px;
